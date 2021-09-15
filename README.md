@@ -1,1 +1,2 @@
 # fitness-tracker
+![](FitnessTracker.png)
